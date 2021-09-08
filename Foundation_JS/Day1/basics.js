@@ -1,3 +1,4 @@
+// console.log() is used to print any kind of variables defined before in it or to just print any message that needs to be displayed to the user. It can be also used as debbuger.
 console.log("Hello world!");
 
 console.log(2+2);
@@ -21,7 +22,7 @@ console.log(d);
 let pet = 'dog';
 pet= 'cat'; 
 console.log(pet);
-
+//*************************************************************************************************************************************//
 //Hoisting : the default behavior of moving all the declarations at the top of the scope before code execution. var can be hoisted
 
 var greet;
@@ -34,7 +35,7 @@ greet = 'hello';
 
 console.log(greet); //hello
 
-//***************************************//
+//**********************************************************************************************************************************//
 
 //"const" and "let" are never Hoisted. 
 
@@ -56,7 +57,7 @@ console.log(greeting);
 
 //Interview Question on var, let and const is always asked
 
-//*********************************************** */
+//******************************************************************************************************************************//
 //logical operators
 // "==" and "==="
 
