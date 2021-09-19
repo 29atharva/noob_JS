@@ -1,6 +1,6 @@
-const a= {v:"anshul",obj:{v:"goyal"}}
+const a= {v:"atharva",obj:{v:"kavishwar"}}
 
-const { obj:u,v:g } = {v:"anshul",obj:{v:"goyal"}}
+const { obj:u,v:g } = {v:"atharva",obj:{v:"kavishwar"}}
 
 // const u = a.obj
 // const g =a.v
@@ -25,7 +25,7 @@ console.log(Object.assign({a:0},{b:1},{c:"anhul"}))
 // const name = a.obj.name
 
 
-// const name= {name:"anshul"}.name
+// const name= {name:"atharva"}.name
 
 // console.log(v,v)
 
