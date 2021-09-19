@@ -1,3 +1,5 @@
+//ARRAY
+
 const arr= [1,"string",true,{},function(){}]
 
 // arr[0]
